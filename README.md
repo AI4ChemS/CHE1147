@@ -30,16 +30,16 @@ Here’s where to find stuff:
 
 ## 👨‍🏫 Lectures
 
-- **Lecture 1 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
-- **Lecture 1 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1YGTtq_Nu8aPcm2Vj_WyhWyoEcSZdc9hEilq8GYlzYuc/edit?usp=sharing)
+- **Lecture W01 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
+- **Lecture W02 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1YGTtq_Nu8aPcm2Vj_WyhWyoEcSZdc9hEilq8GYlzYuc/edit?usp=sharing)
 
 ## 📚 Tutorials
 
-| Tutorial | Colab Link |
-|----------|------------|
-| 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_01_python_refresher.ipynb) |
-| 2. Linear Algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_02_linear_algebra.ipynb) |
-| 3. RDKit and EDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_03_eda_and_rdkit.ipynb) |
+|Week| Tutorial | Colab Link |
+|----|----------|------------|
+|W01 | 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_01_python_refresher.ipynb) |
+| | 2. Linear Algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_02_linear_algebra.ipynb) |
+|W02 | 3. RDKit and EDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_03_eda_and_rdkit.ipynb) |
 
 
 
