@@ -48,12 +48,7 @@ To reproduce the Python environment:
 ```bash
 conda env create -f environment.yml
 conda activate che1147 
-
-
-
-
-The content, examples, and ideas are inspired from many other open courses which we will reference.
-
+```
 
 ## Contributions
 
@@ -63,6 +58,14 @@ This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team
 - [Thomas Pruyns](https://github.com/iamthomaspruyn)
 - [Mahyar Rajabi Kochi](https://github.com/Mahyar-rajabi94)
 - [Sartaaj Khan](https://github.com/sartaajkhan)
+
+## Acknowledgements
+
+The content, examples, figures, and ideas are inspired from many other open courses which we will reference.
+<!-- - Bishop
+- Prince
+- ML molsim -->
+
 
 
 

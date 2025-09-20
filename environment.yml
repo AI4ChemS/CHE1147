@@ -39,4 +39,3 @@ dependencies:
   # pip-only packages (if any specific versions are missing from conda)
   - pip:
       - kaggle
-      - mordred-descriptor
