@@ -42,6 +42,15 @@ Here’s where to find stuff:
 |W02 | 3. RDKit and EDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_03_eda_and_rdkit.ipynb) |
 
 
+## ⚙️ Setup
+To reproduce the Python environment:
+
+```bash
+conda env create -f environment.yml
+conda activate che1147 
+
+
+
 
 The content, examples, and ideas are inspired from many other open courses which we will reference.
 
@@ -56,12 +65,4 @@ This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team
 - [Sartaaj Khan](https://github.com/sartaajkhan)
 
 
-<!-- ---
 
-## ⚙️ Setup
-We’ll use Python 🐍 and Jupyter Notebooks. 
-<!-- Get started by creating the course environment:
-
-```bash
-conda env create -f environment.yml
-conda activate che1147 --> 

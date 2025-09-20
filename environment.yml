@@ -1,0 +1,42 @@
+name: che1147
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Python
+  - python=3.10
+  - pip
+  - jupyterlab
+  - notebook<7.0.0
+  - nb_conda
+
+  # Data Science stack
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - plotly
+  - bokeh
+  - holoviews
+
+  # ML / Optimization
+  - xgboost
+  - hyperopt
+
+  # Cheminformatics
+  - rdkit
+  - mordred
+
+  # Visualization / profiling
+  - ydata-profiling
+  - pymatviz
+
+  # Widgets
+  - ipywidgets
+
+  # pip-only packages (if any specific versions are missing from conda)
+  - pip:
+      - kaggle
+      - mordred-descriptor
