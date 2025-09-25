@@ -62,11 +62,9 @@ This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team
 
 ## Acknowledgements
 
-The content, examples, figures, and ideas are inspired from many other open courses which we will reference.
-<!-- - Bishop
-- Prince
-- ML molsim -->
+The content, examples, figures, and ideas are inspired from many textbooks, and other open courses which we will reference properly.
 
-
+- Christopher Bishop’s *Pattern Recognition and Machine Learning* (Springer, 2006)
+- Simon Prince’s *Understanding Deep Learning* (Cambridge University Press, 2023)
 
 
