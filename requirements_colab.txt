@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+matplotlib
+plotly
+bokeh
+holoviews
+xgboost
+hyperopt
+rdkit-pypi
+ydata-profiling
+pymatviz
+ipywidgets
+mordred
+kaggle
