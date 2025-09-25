@@ -9,9 +9,9 @@ bokeh
 holoviews
 xgboost
 hyperopt
-rdkit-pypi
 ydata-profiling
 pymatviz
 ipywidgets
 mordred
 kaggle
+rdkit
