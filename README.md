@@ -18,7 +18,7 @@ Here’s where to find stuff:
 - `tutorials/` → in-class hands-on exercises  
 <!-- - `assignments/` → homework with starter code   -->
 - `projects/` → group project information  
-<!-- - `data/` → small sample datasets or scripts to fetch them   -->
+- `data/` → small sample datasets used in tutorials  
 <!-- - `resources/` → cheat sheets, papers, links   -->
 
 ## 👨‍🏫 Lectures
