@@ -32,6 +32,7 @@ Here’s where to find stuff:
 
 - **Lecture W01 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
 - **Lecture W02 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1YGTtq_Nu8aPcm2Vj_WyhWyoEcSZdc9hEilq8GYlzYuc/edit?usp=sharing)
+- **Lecture W03 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1LPjHi8CAZs9CAHbfF02WlK_FsRVA6rcaeJB9pzARbqY/edit?usp=sharing)
 
 ## 📚 Tutorials
 
