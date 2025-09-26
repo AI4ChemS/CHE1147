@@ -56,9 +56,9 @@ This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team
 
 ## Acknowledgements
 
-The content, examples, figures, and ideas are inspired from many textbooks, and other open courses which we will reference properly.
+The content, examples, figures, and ideas are inspired from many textbooks, and other open courses which we will reference properly. The main references include:
 
-- Christopher Bishop’s *Pattern Recognition and Machine Learning* (Springer, 2006)
-- Simon Prince’s *Understanding Deep Learning* (Cambridge University Press, 2023)
+- Christopher Bishop’s *(Pattern Recognition and Machine Learning)[https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf]* (Springer, 2006)
+- Simon Prince’s *(Understanding Deep Learning)[https://udlbook.github.io/udlbook/]* (Cambridge University Press, 2023)
 
 
