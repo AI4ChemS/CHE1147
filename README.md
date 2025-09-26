@@ -7,14 +7,7 @@ Our course combines {Data + Chemistry + Engineering}. We’ll explore how **mach
 - Group projects 💡
 
 This repo is where lectures, tutorials, assignments, and project guidelines will live for our course. 
-
 This course is the foundation for CHE1148.  
-
-<!-- ---
-
-## 📚 What’s this course about?
-
-- Occasional “why is this hard?” discussions 🤔 -->
 
 ---
 
@@ -24,7 +17,7 @@ Here’s where to find stuff:
 - `lectures/` → demo notebooks  
 - `tutorials/` → in-class hands-on exercises  
 <!-- - `assignments/` → homework with starter code   -->
-<!-- - `projects/` → group project guidelines & rubrics   -->
+- `projects/` → group project information  
 <!-- - `data/` → small sample datasets or scripts to fetch them   -->
 <!-- - `resources/` → cheat sheets, papers, links   -->
 
@@ -52,7 +45,7 @@ conda env create -f environment.yml
 conda activate che1147 
 ```
 
-## Contributions
+## 🫸💥🫷Contributions
 
 This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team and TAs:
 
