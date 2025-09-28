@@ -1,5 +1,5 @@
 # 🫎 CHE1147: Chemical Data Science and Engineering 
-**Fall 2025 · University of Toronto**
+<!-- **Fall 2025 · University of Toronto** -->
 
 Our course combines {Data + Chemistry + Engineering}. We’ll explore how **machine learning and data science** can solve real chemical engineering problems with a mix of:
 - Lectures with chemical examples and datasets 📊
@@ -13,13 +13,13 @@ This course is the foundation for CHE1148.
 
 ## 🗂 Repo Map
 Here’s where to find stuff:
-<!-- - `syllabus/` → syllabus & policies   -->
 - `lectures/` → demo notebooks  
 - `tutorials/` → in-class hands-on exercises  
-<!-- - `assignments/` → homework with starter code   -->
 - `projects/` → group project information  
 - `data/` → small sample datasets used in tutorials  
+<!-- - `syllabus/` → syllabus & policies   -->
 <!-- - `resources/` → cheat sheets, papers, links   -->
+<!-- - `assignments/` → homework with starter code   -->
 
 ## 👨‍🏫 Lectures
 
@@ -44,8 +44,39 @@ To reproduce the Python environment:
 conda env create -f environment.yml
 conda activate che1147 
 ```
+## 💬 Feedback, Suggestions, & Support 
 
-## 🫸💥🫷Contributions
+Tell me what to improve or any other requests using this totally anonymous form:
+
+[![Give Feedback](https://img.shields.io/badge/Google%20Form-Feedback-blue)](https://forms.gle/j8uGpyt4QSPDn7sr5)
+
+
+
+Or open a GitHub issue if you found a bug, typo, or broken link:
+
+[![Open an issue](https://img.shields.io/badge/GitHub-Issues-black?logo=github)](https://github.com/AI4ChemS/CHE1147/issues/new/choose)
+
+Found this useful? Please consider **starring the repo** 🌟 — it helps others discover the project and shows your support!
+
+[![GitHub stars](https://img.shields.io/github/stars/<org>/<repo>?style=social)](https://github.com/AI4ChemS/CHE1147/stargazers)
+
+## 🤝 Contribute
+
+We welcome:
+- 🐛 **Bug reports** (broken notebook cells, path issues, typos)
+- 📚 **Content improvements** (clearer explanations, new examples)
+- 🧪 **New exercises/tutorials/content** (small, focused PRs work best)
+
+<!-- **Quick start**
+1. Fork → create a branch: `feat/topic-name`
+2. Make changes; keep cells runnable
+3. Run `nbstripout` (or clear outputs) for clean diffs
+4. Open a Pull Request (PR) with a short description -->
+
+---
+
+
+## 🫸💥🫷Developers and Maintainers
 
 This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team and TAs:
 
@@ -54,7 +85,7 @@ This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team
 - [Mahyar Rajabi Kochi](https://github.com/Mahyar-rajabi94)
 - [Sartaaj Khan](https://github.com/sartaajkhan)
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 The content, examples, figures, and ideas are inspired from many textbooks, and other open courses which we will reference properly. The main references include:
 
@@ -62,3 +93,10 @@ The content, examples, figures, and ideas are inspired from many textbooks, and 
 - Simon Prince’s *[Understanding Deep Learning](https://udlbook.github.io/udlbook/)* (Cambridge University Press, 2023)
 
 
+
+
+<!-- Helpful links:
+- [Contribution guide](./CONTRIBUTING.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Open issues](https://github.com/<org>/<repo>/issues)
+- [Discussions](https://github.com/<org>/<repo>/discussions) _(Q&A, ideas)_ -->
