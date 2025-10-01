@@ -7,7 +7,6 @@ Our course combines {Data + Chemistry + Engineering}. We’ll explore how **mach
 - Group projects 💡
 
 This repo is where lectures, tutorials, assignments, and project guidelines will live for our course. 
-This course is the foundation for CHE1148.  
 
 ---
 
@@ -84,6 +83,10 @@ This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team
 - [Thomas Pruyns](https://github.com/iamthomaspruyn)
 - [Mahyar Rajabi Kochi](https://github.com/Mahyar-rajabi94)
 - [Sartaaj Khan](https://github.com/sartaajkhan)
+
+A shout-out as well to our friends at the [Chemical Cognition Lab](https://github.com/chemcognition-lab) 👋.  
+They run CHE1148, which builds on this course. CHE1147 is the foundation, CHE1148 takes it further to neural nets and representation learning. We’ve been inspired by each other’s ideas along the way.  
+
 
 ## 🙏 Acknowledgements
 
