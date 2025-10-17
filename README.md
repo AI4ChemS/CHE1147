@@ -27,7 +27,7 @@ Here’s where to find stuff:
 - **Lecture W03 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1LPjHi8CAZs9CAHbfF02WlK_FsRVA6rcaeJB9pzARbqY/edit?usp=sharing)
 - **Lecture W04 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1u1AdL-scpyeaR5d0hK_btRJvx8Km8-dxQAJNSNve0PA/edit?usp=sharing)
 - **Lecture W05 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1RV-7lC08JGl5_aa-zNddAz6aUnUB60LsTWs2sjgAOu8/edit?usp=sharing)
-
+- **Lecture W06 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/14T6Ocg9k1TSchSnId3mE_8C0z7EsBw66a6QU7CWCiW8/edit?usp=sharing)
 
 
 
