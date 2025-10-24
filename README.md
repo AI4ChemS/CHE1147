@@ -22,14 +22,28 @@ Here’s where to find stuff:
 
 ## 👨‍🏫 Lectures
 
-- **Lecture W01 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
+| Week | Topic | Slides |
+|:-----|:------|:-------|
+| Week 01 | Introduction to Machine Learning & Course Overview | [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing) |
+| Week 02 | Data, Representation, and Exploratory Data Analysis | [Open in Google Slides](https://docs.google.com/presentation/d/1YGTtq_Nu8aPcm2Vj_WyhWyoEcSZdc9hEilq8GYlzYuc/edit?usp=sharing) |
+| Week 03 | Supervised Learning Workflow | [Open in Google Slides](https://docs.google.com/presentation/d/1LPjHi8CAZs9CAHbfF02WlK_FsRVA6rcaeJB9pzARbqY/edit?usp=sharing) |
+| Week 04 | Modelling well: complexity, regularization and model selection | [Open in Google Slides](https://docs.google.com/presentation/d/1u1AdL-scpyeaR5d0hK_btRJvx8Km8-dxQAJNSNve0PA/edit?usp=sharing) |
+| Week 05 | Model Zoo: Different Ways of Learning from Data | [Open in Google Slides](https://docs.google.com/presentation/d/1RV-7lC08JGl5_aa-zNddAz6aUnUB60LsTWs2sjgAOu8/edit?usp=sharing) |
+| Week 06 | Logistic Regression & Classification | [Open in Google Slides](https://docs.google.com/presentation/d/14T6Ocg9k1TSchSnId3mE_8C0z7EsBw66a6QU7CWCiW8/edit?usp=sharing) |
+| Week 07 | Unsupervised Learning | [Open in Google Slides](https://docs.google.com/presentation/d/1HgSgHS4dFjfjFpIVh97lzhPABvHbRZlCU4ffc-Osawc/edit?usp=sharing) |
+<!-- | Week 08 | Unsupervised Learning | [Open in Google Slides](LINK) |
+| Week 09 | Unsupervised Learning | [Open in Google Slides](LINK) |
+| Week 10 | Unsupervised Learning | [Open in Google Slides](LINK) | -->
+
+
+<!-- - **Lecture W01 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
 - **Lecture W02 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1YGTtq_Nu8aPcm2Vj_WyhWyoEcSZdc9hEilq8GYlzYuc/edit?usp=sharing)
 - **Lecture W03 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1LPjHi8CAZs9CAHbfF02WlK_FsRVA6rcaeJB9pzARbqY/edit?usp=sharing)
 - **Lecture W04 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1u1AdL-scpyeaR5d0hK_btRJvx8Km8-dxQAJNSNve0PA/edit?usp=sharing)
 - **Lecture W05 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1RV-7lC08JGl5_aa-zNddAz6aUnUB60LsTWs2sjgAOu8/edit?usp=sharing)
 - **Lecture W06 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/14T6Ocg9k1TSchSnId3mE_8C0z7EsBw66a6QU7CWCiW8/edit?usp=sharing)
 - **Lecture W07 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/1HgSgHS4dFjfjFpIVh97lzhPABvHbRZlCU4ffc-Osawc/edit?usp=sharing)
-
+ -->
 
 
 ## 📚 Tutorials
@@ -39,7 +53,8 @@ Here’s where to find stuff:
 |W01 | 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_01_python_refresher.ipynb) |
 | | 2. Linear Algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_02_linear_algebra.ipynb) |
 |W02 | 3. RDKit and EDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_03_eda_and_rdkit.ipynb) |
-|W03-06 | 4. Supervised Learning |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_supervised_learning.ipynb) |
+|W03-06 | 4. Supervised Learning - Regression |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_supervised_learning.ipynb) |
+|W07 | 5. Supervised Learning - Classification | |
 
 
 ## ⚙️ Setup
@@ -100,6 +115,7 @@ The content, examples, figures, and ideas are inspired from many textbooks, and 
 
 - Christopher Bishop’s *[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)* (Springer, 2006)
 - Simon Prince’s *[Understanding Deep Learning](https://udlbook.github.io/udlbook/)* (Cambridge University Press, 2023)
+- Kevin M. Jablonka for [ML-MolSim](https://github.com/kjappelbaum/ml_molsim)
 
 
 
