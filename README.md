@@ -31,9 +31,9 @@ Here’s where to find stuff:
 | Week 05 | Model Zoo: Different Ways of Learning from Data | [Open in Google Slides](https://docs.google.com/presentation/d/1RV-7lC08JGl5_aa-zNddAz6aUnUB60LsTWs2sjgAOu8/edit?usp=sharing) |
 | Week 06 | Logistic Regression & Classification | [Open in Google Slides](https://docs.google.com/presentation/d/14T6Ocg9k1TSchSnId3mE_8C0z7EsBw66a6QU7CWCiW8/edit?usp=sharing) |
 | Week 07 | Unsupervised Learning | [Open in Google Slides](https://docs.google.com/presentation/d/1HgSgHS4dFjfjFpIVh97lzhPABvHbRZlCU4ffc-Osawc/edit?usp=sharing) |
-<!-- | Week 08 | Unsupervised Learning | [Open in Google Slides](LINK) |
-| Week 09 | Unsupervised Learning | [Open in Google Slides](LINK) |
-| Week 10 | Unsupervised Learning | [Open in Google Slides](LINK) | -->
+<!-- | Week 08 | Explainability & Data Quality| [Open in Google Slides](LINK) |
+| Week 09 | Trustworthy ML, uncertainty and OOD  | [Open in Google Slides](LINK) |
+| Week 10 | Bayesian Optimization | [Open in Google Slides](LINK) | -->
 
 
 <!-- - **Lecture W01 slides:** [Open in Google Slides](https://docs.google.com/presentation/d/111YeW6a_pOGGlDclQf9Y6icHKTzszC-cKIZvfnUfHjE/edit?usp=sharing)
