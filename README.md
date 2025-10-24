@@ -54,9 +54,7 @@ Here’s where to find stuff:
 |       | 2. Linear Algebra                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_02_linear_algebra.ipynb) |
 | W02   | 3. RDKit and EDA                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_03_eda_and_rdkit.ipynb) |
 | W03–06| 4. Supervised Learning — Regression        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_04_supervised_learning.ipynb) |
-| W07   | 5. Supervised Learning — Classification    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_05_classification.ipynb) |
-
-
+| W07   | 5. Supervised Learning — Classification    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_05_classification.ipynb) |
 
 ## ⚙️ Setup
 To reproduce the Python environment:
