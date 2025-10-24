@@ -100,7 +100,7 @@ We welcome:
 This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team and TAs:
 
 - [Lya Chiñas](https://github.com/lyach)
-- [Thomas Pruyns](https://github.com/iamthomaspruyn)
+- [Thomas Pruyn](https://github.com/iamthomaspruyn)
 - [Mahyar Rajabi Kochi](https://github.com/Mahyar-rajabi94)
 - [Sartaaj Khan](https://github.com/sartaajkhan)
 
