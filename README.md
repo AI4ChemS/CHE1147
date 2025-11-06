@@ -2,8 +2,8 @@
 <!-- **Fall 2025 · University of Toronto** -->
 
 Our course combines {Data + Chemistry + Engineering}. We’ll explore how **machine learning and data science** can solve real chemical engineering problems with a mix of:
-- Lectures with chemical examples and datasets 📊
-- Hands-on sessions 👩‍💻
+- Lectures with chemical examples and datasets 🔬🧬🦠🧪⚗️
+- Hands-on sessions 👩‍💻👨‍💻
 - Group projects 💡
 
 This repo is where lectures, tutorials, assignments, and project guidelines will live for our course. 
@@ -36,7 +36,7 @@ Here’s where to find stuff:
 | Week 09 | Trustworthy ML, uncertainty and OOD  | [Open in Google Slides](LINK) |
 | Week 10 | Bayesian Optimization | [Open in Google Slides](LINK) | -->
 
-## 📚 Tutorials
+## 🤖💻 Tutorials
 
 |Week| Tutorial | Colab Link |
 |----|----------|------------|
