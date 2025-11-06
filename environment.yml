@@ -25,6 +25,7 @@ dependencies:
   - xgboost
   - hyperopt
   - shap
+  - umap-learn
 
   # Cheminformatics
   - rdkit
