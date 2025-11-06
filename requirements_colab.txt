@@ -15,3 +15,4 @@ ipywidgets
 mordred
 kaggle
 rdkit
+umap-learn
