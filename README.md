@@ -51,12 +51,11 @@ Here’s where to find stuff:
 
 |Week| Tutorial | Colab Link |
 |----|----------|------------|
-|W01 | 1. Python Refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_01_python_refresher.ipynb) |
-| | 2. Linear Algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_02_linear_algebra.ipynb) |
-|W02 | 3. RDKit and EDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_03_eda_and_rdkit.ipynb) |
-|W03-06 | 4. Supervised Learning - Regression |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE-1147/blob/main/tutorials/tutorial_supervised_learning.ipynb) |
-|W07 | 5. Supervised Learning - Classification | |
-
+| W01   | 1. Python Refresher                        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_01_python_refresher.ipynb) |
+|       | 2. Linear Algebra                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_02_linear_algebra.ipynb) |
+| W02   | 3. RDKit and EDA                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_03_eda_and_rdkit.ipynb) |
+| W03–06| 4. Supervised Learning — Regression        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_04_supervised_learning.ipynb) |
+| W07   | 5. Supervised Learning — Classification    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4ChemS/CHE1147/blob/main/tutorials/tutorial_05_classification.ipynb) |
 
 ## ⚙️ Setup
 To reproduce the Python environment:
@@ -102,7 +101,7 @@ We welcome:
 This course is being created by the [AI4ChemS](https://github.com/AI4ChemS) team and TAs:
 
 - [Lya Chiñas](https://github.com/lyach)
-- [Thomas Pruyns](https://github.com/iamthomaspruyn)
+- [Thomas Pruyn](https://github.com/iamthomaspruyn)
 - [Mahyar Rajabi Kochi](https://github.com/Mahyar-rajabi94)
 - [Sartaaj Khan](https://github.com/sartaajkhan)
 
