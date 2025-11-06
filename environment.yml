@@ -24,6 +24,7 @@ dependencies:
   # ML / Optimization
   - xgboost
   - hyperopt
+  - shap
 
   # Cheminformatics
   - rdkit
