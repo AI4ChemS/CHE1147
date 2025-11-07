@@ -16,3 +16,4 @@ mordred
 kaggle
 rdkit
 umap-learn
+SHAP
