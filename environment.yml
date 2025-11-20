@@ -26,6 +26,7 @@ dependencies:
   - hyperopt
   - shap
   - umap-learn
+  - botorch
 
   # Cheminformatics
   - rdkit
