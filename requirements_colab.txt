@@ -17,3 +17,4 @@ kaggle
 rdkit
 umap-learn
 SHAP
+botorch
