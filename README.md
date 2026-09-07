@@ -54,21 +54,24 @@ To reproduce the Python environment:
 conda env create -f environment.yml
 conda activate che1147 
 ```
+
 ## 💬 Feedback, Suggestions, & Support 
 
 Tell me what to improve or any other requests using this totally anonymous form:
 
 [![Give Feedback](https://img.shields.io/badge/Google%20Form-Feedback-blue)](https://forms.gle/j8uGpyt4QSPDn7sr5)
 
-
-
 Or open a GitHub issue if you found a bug, typo, or broken link:
 
 [![Open an issue](https://img.shields.io/badge/GitHub-Issues-black?logo=github)](https://github.com/AI4ChemS/CHE1147/issues/new/choose)
 
-Found this useful? Please consider **starring the repo** 🌟 — it helps others discover the project and shows your support!
+Materials from previous offerings are preserved for reference:
 
-[![GitHub stars](https://img.shields.io/github/stars/<org>/<repo>?style=social)](https://github.com/AI4ChemS/CHE1147/stargazers)
+- [Fall 2025 course materials](https://github.com/AI4ChemS/CHE1147/tree/2025)
+
+The `main` branch contains materials for the current offering.
+
+Found this useful? Please consider **starring the repo** 🌟 — it helps others discover the project and shows your support!
 
 ## 🤝 Contribute
 
