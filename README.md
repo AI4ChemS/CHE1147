@@ -48,7 +48,36 @@ Here’s where to find stuff:
 
 
 ## ⚙️ Setup
-To reproduce the Python environment:
+Choose **uv** or **Anaconda** to install the course environment.
+
+### First, clone the repository to your computer
+
+1. Install [VS Code](https://code.visualstudio.com/) and [Git](https://git-scm.com/downloads) if you do not already have them. VS Code provides Git controls, but requires Git to be installed separately. Restart VS Code after installing Git.
+2. In VS Code, open **View → Command Palette**, choose **Git: Clone**, and paste `https://github.com/AI4ChemS/CHE1147.git`.
+3. Choose a folder to save the repository, then click **Open** when cloning finishes. Cloning downloads a local copy of the course files.
+4. Open **Terminal → New Terminal**. This normally starts inside the `CHE1147` folder; run the setup commands below there, where `pyproject.toml` and `environment.yml` are located. If your terminal is in the parent folder instead, first run `cd CHE1147`.
+
+### Using uv
+
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/), then run:
+
+```bash
+uv sync
+```
+
+This installs Python 3.10 if needed and the course packages into a local `.venv` folder. `uv.lock` records the package versions for a reproducible setup.
+
+In **VS Code**, install Microsoft's **Python** and **Jupyter** extensions. Open a tutorial notebook, click **Select Kernel → Python Environments**, and choose the repository's **`.venv`** environment.
+
+Alternatively, open JupyterLab in your browser:
+
+```bash
+uv run jupyter lab
+```
+
+After pulling course updates with `git pull`, run `uv sync` again to update the environment.
+
+### Using Anaconda
 
 ```bash
 conda env create -f environment.yml

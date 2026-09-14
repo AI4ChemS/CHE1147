@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Local Python environment and notebook checkpoints
+.venv/
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,36 @@
+[project]
+name = "che1147"
+version = "0.1.0"
+description = "Python environment for CHE1147 tutorials and lectures"
+requires-python = ">=3.10,<3.11"
+# Keep the course packages aligned with environment.yml.
+dependencies = [
+    "pip",
+    "setuptools<82",  # ydata-profiling still imports pkg_resources.
+    "jupyterlab",
+    "notebook<7.0.0",
+    "ipykernel",
+    "numpy",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "seaborn",
+    "matplotlib",
+    "plotly<6",  # pymatviz on Python 3.10 uses the older validators API.
+    "bokeh",
+    "holoviews",
+    "xgboost",
+    "hyperopt",
+    "shap",
+    "umap-learn",
+    "botorch",
+    "rdkit",
+    "mordredcommunity",  # Maintained Mordred; provides the same mordred imports.
+    "ydata-profiling",
+    "pymatviz",
+    "ipywidgets",
+    "kaggle",
+]
+
+[tool.uv]
+package = false
