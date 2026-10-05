@@ -25,3 +25,7 @@ TestResults.xml
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+# Folder for local files (edited notebooks)
+local/*
+!local/.gitkeep
