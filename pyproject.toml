@@ -19,7 +19,7 @@ dependencies = [
     "plotly<6",  # pymatviz on Python 3.10 uses the older validators API.
     "bokeh",
     "holoviews",
-    "xgboost",
+    "xgboost<3.1.0",
     "hyperopt",
     "shap",
     "umap-learn",
